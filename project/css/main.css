@@ -11,6 +11,7 @@ h1 {
   font-weight: 700;
   margin-top: 40px;
   font-size: 48px;
+
 }
 
 p {
@@ -22,10 +23,10 @@ button {
 }
 
 .page-header {
-  background-color: #00bda5;
+  background-color: #ffffff;
   padding-top: 40px;
   padding-bottom: 80px;
-  color: #ffffff;
+  color: #00000;
 }
 
 #image img {

@@ -1,1 +1,1 @@
-<process type>: <command>
+<process type>: <web>

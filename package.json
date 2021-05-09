@@ -2,7 +2,7 @@
   "requires": true,
   "lockfileVersion": 1,
   "scripts": {
-    "start": "node server.js"
+    "start": "node project/start.js"
   },
   "dependencies": {},
   "name": "basewebapp",
@@ -16,7 +16,7 @@
   "author": "maia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/QueenMaia/BaseWebApp/issues"
+    "url": "https://github.com/QueenMaia/BaseWebApp"
   },
   "homepage": "https://github.com/QueenMaia/BaseWebApp#readme",
   "description": ""

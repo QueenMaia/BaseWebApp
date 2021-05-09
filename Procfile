@@ -1,1 +1,1 @@
-<process type>: <web>
+web: node project/start.js

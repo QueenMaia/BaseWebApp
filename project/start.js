@@ -13,12 +13,16 @@ app.get('/', function(request, response) {
   response.render('pages/index');
 });
 
-app.get('/about', function(request, response) {
-  response.render('pages/about');
+app.get('/resume', function(request, response) {
+  response.render('pages/resume');
 });
 
 app.get('/projects', function(request, response) {
   response.render('pages/projects');
+});
+
+app.get('/research', function(request, response) {
+  response.render('pages/research');
 });
 
 app.listen(app.get('port'), function() {

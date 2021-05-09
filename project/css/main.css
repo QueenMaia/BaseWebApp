@@ -4,6 +4,7 @@ body {
   text-align: center;
   color: #343a40;
   font-size: 22px;
+
 }
 
 h1 {
@@ -13,6 +14,9 @@ h1 {
   font-size: 48px;
 
 }
+/* h5 {
+  text-align: left;
+} */
 
 p {
   margin-top: 80px;
@@ -33,3 +37,53 @@ button {
   height: 200px;
   margin-top: 60px;
 }
+
+
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("/images/maia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 85%;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+
+    padding: 0;
+    margin: 0;
+}
+
+a {
+  font-weight: bold;
+  color: white;
+}
+
+a:hover {
+  font-weight: bold;
+  color: gray;
+}
+
+
+/* .full {
+  padding: 0 !important;
+  margin: 0 auto !important;
+  background-size: cover;
+  overflow: hidden;
+} */
+/* .wide {
+  width: 100%;
+  height: auto;
+}
+
+.logo {
+  color: #fff;
+  font-weight: 800;
+  font-size: 14pt;
+  padding: 25px;
+  text-align: center;
+}
+.line {
+  padding-top: 20px;
+  white-space: no-wrap;
+  overflow: hidden;
+  text-align: center;
+} */

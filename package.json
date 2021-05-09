@@ -4,7 +4,10 @@
   "scripts": {
     "start": "node project/start.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
   "name": "basewebapp",
   "version": "1.0.0",
   "main": "index.js",

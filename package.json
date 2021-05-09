@@ -374,6 +374,7 @@
       "integrity": "sha1-IpnwLG3tMNSllhsLn3RSShj2NPw="
     },
     "engines": {
+      "version": "1.0.0",
       "node": "14.x"
     }
   }

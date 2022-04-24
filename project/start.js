@@ -25,6 +25,10 @@ app.get('/research', function(request, response) {
   response.render('pages/research');
 });
 
+app.get('/contact', function(request, response) {
+  response.render('pages/contact');
+});
+
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });

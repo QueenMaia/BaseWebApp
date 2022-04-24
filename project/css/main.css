@@ -14,6 +14,15 @@ h1 {
   font-size: 48px;
 
 }
+
+.resume{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  margin-top: 40px;
+  font-size: 48px;
+  margin-bottom: 0;
+
+}
 /* h5 {
   text-align: left;
 } */
@@ -38,12 +47,15 @@ button {
   margin-top: 60px;
 }
 
+.resume-image {
+  height: 900px;
+}
 
 .bg-overlay {
-    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("/images/maia.jpeg");
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("/images/IMG_1750.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 50% 85%;
+    background-position: 80% 75%;
     color: #fff;
     height: 100%;
     width: 100%;
